@@ -248,10 +248,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
- 
+ ![exp 7 circuit](https://github.com/Iyyanar22009120/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118680259/edc57265-cfd5-474d-ac88-37a373bdd996)
+ ![Uploading 500 exp 7.png…]()
+![700 exp 7](https://github.com/Iyyanar22009120/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118680259/5cae140c-211f-4392-b217-f32064f08874)
+![Uploading 900 exp 7.png…]()
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ ![exp 7 layout](https://github.com/Iyyanar22009120/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118680259/b2f80ac0-e825-4053-85d0-601710a5e26f)
+
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
